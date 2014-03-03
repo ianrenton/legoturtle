@@ -37,9 +37,9 @@ void loop() {
     if (hitLeft && hitRight) {
       turnAround();
     } else if (hitLeft) {
-      turnLeft();
-    } else if (hitRight) {
       turnRight();
+    } else if (hitRight) {
+      turnLeft();
     }
     // Reset these so we go into the main loop again.
     hitLeft = false;
