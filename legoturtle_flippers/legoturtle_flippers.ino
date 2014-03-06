@@ -6,8 +6,8 @@
 int LEFT_FLIPPER = 2;
 int RIGHT_FLIPPER = 3;
 int MOTOR_LEFT_FWD = 9;
-int MOTOR_RIGHT_FWD = 10;
-int MOTOR_LEFT_REV = 11;
+int MOTOR_LEFT_REV = 10;
+int MOTOR_RIGHT_FWD = 11;
 int MOTOR_RIGHT_REV = 12;
 
 void setup() {
