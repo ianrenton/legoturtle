@@ -1,7 +1,7 @@
 legoturtle
 ==========
 
-Arduino programs for controlling a Lego Mindstorms robot. See http://ianrenton.com/legoturtle for videos, schematics and build photos!
+Arduino programs for controlling a Lego Mindstorms robot. See [http://ianrenton.com/hardware/lego-turtle](http://ianrenton.com/hardware/lego-turtle) for videos, schematics and build photos!
 
 legoturtle-flippers
 -------------------
